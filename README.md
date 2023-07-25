@@ -1,26 +1,28 @@
 # TIMER 2.0
 
-> Projeto construído como desafio ao aluno durante as aulas da trilha Explorer da Rocketseat.
+## An alarm clock that can be timed by the user.
 
-    O desafio era criar todo o HTML, CSS e JavaScript da aplicação a partir de um modelo do FIGMA, utilizando DOM e ES Modules (EcmaScript 6 - ES6) para construir as funcionalidades de um despertador em que o usuário incrementa ou decrementa 5 minutos no timer, com 4 opções de música de fundo e seus respectivos controles de volume. Também trabalhamos a opção do modo escuro na página.
-    
-    Reforçamos conhecimentos sobre HTML, CSS, JavaScript, DOM, node, eventos, refatoração de código, clean code e separação do JS em módulos.
+> Project built as a challenge to the student during during classes on Explorer trail at Rocketseat educational institution.
+> 
+> The challenge was to create all the HTML, CSS and JavaScript of the application from a FIGMA model, using DOM and ES Modules (EcmaScript 6 - ES6) to build the functionalities of an alarm clock in which the user increases or decreases the timer by 5 minutes, with 4 background music options and their respective volume controls. We also worked on the dark mode option on the page.
+   > 
+> We reinforce knowledge about HTML, CSS, JavaScript, DOM, node, events, code refactoring, clean code and separating JS into modules.
 
 ![preview_1](./.github/preview_1.png)
 ![preview_2](./.github/preview_2.png)
 
-🔗 [Clique aqui para acessar](https://mbslash.github.io/Timer-2.0/)
+🔗 [Click here to access](https://matheusborgesdev.github.io/Timer-2.0/)
 
-## 💻 Tecnologias
+## 💻 Technologies
 
 - HTML
 - CSS
 - JavaScript
 - ECMAScript 6
 - DOM
-- Git e Github
+- Git & Github
 - Figma
 
-## 📧 Contato
+## 📧 Contact
 
 matheusb.dev@gmail.com
