@@ -1,6 +1,6 @@
 # TIMER 2.0
 
-## An alarm clock that can be timed by the user.
+## An alarm clock that can be programmed by the user, with different ambient sound options.
 
 > Project built as a challenge to the student during during classes on Explorer trail at Rocketseat educational institution.
 > 
